@@ -23,4 +23,5 @@ async def setup_hook():
     await bot.add_cog(Collector(bot))
 
 
-bot.run("token")
+
+bot.run("DISCORD_TOKEN")
