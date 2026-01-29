@@ -1,0 +1,33 @@
+[
+    {
+        "entry_type": "system",
+        "system": {
+            "name": "Aurelis Glass I",
+            "classification": "Gf4 // water",
+            "region": "Meblakier",
+            "special_note": "This is the glass star of the region and cannot be accessed via warp. Only via portal and with Atlantid drive.",
+            "code_raw": "System Name: Aurelis Glass I Region: Meblakier System classification: Gf4 // water System Colour: Yellow Dominant Lifeform: Vy'keen Economy: Technology - Promising Conflict: 1 - Tranquil Number of Planets: 5 + 1 moon System Coordinates: 13E8FF1076F6 SPECIAL NOTE: This is the glass star of the region and cannot be accessed via warp. Only via portal and with Atlantid drive., -- Screenshot of Galaxy Map View",
+            "code_hex": "eaeAeaeebaeecafcaf4aeeCeDafefeeEcecCfc1abefae51eCdae13E8FF1076F6ECAEeaafeeadcabeacceedaaaaadAaddeceefaaae",
+            "colour": "Yellow",
+            "lifeform": "Vy'keen",
+            "economy": {
+                "type": "Technology",
+                "status": "Promising"
+            },
+            "conflict": {
+                "status": "Tranquil",
+                "level": 1
+            },
+            "planets": 5,
+            "moons": 1,
+            "coordinates": "13E8FF1076F6",
+            "screenshot_url": null
+        },
+        "meta": {
+            "thread_id": 1465242704425521304,
+            "message_id": 1465242706816270482,
+            "submitted_by": 621766226166677514,
+            "timestamp": "2026-01-26T07:11:24.198000+00:00"
+        }
+    }
+]

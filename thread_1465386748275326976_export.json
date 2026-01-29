@@ -1,0 +1,116 @@
+[
+    {
+        "entry_type": "fauna",
+        "fauna": {
+            "name": "P. Stonsekoe",
+            "planet": "Found on planet Jeyotan, P. Stonesekoe has adapted to the temperate climate and humid atmosphere. Jerky and unbalanced in its movements, its unusual brain chemistry leaves it prone to sudden outbursts of aggression. They inject enzymes into their prey to drink their liquid flesh. They breathe through their mouth.",
+            "star_system": "Rulinfenz",
+            "galaxy": "Euclid",
+            "coordinates": "",
+            "biome": "Temperate Climate & Humid Atmosphere.",
+            "fauna_class": "(Small / Medium / Large / Flying / Aquatic / Underground) Aquatic Underground",
+            "temperament": "(Passive / Skittish / Aggressive) Passive but outbursts can turn it into Aggressive.",
+            "activity_pattern": "(Diurnal / Nocturnal / Always Active) Always Active",
+            "rarity": "Rare",
+            "discovery_date": "23rd Jan",
+            "discovered_by": "imabuzzingbee",
+            "description": null,
+            "special_note": null,
+            "screenshot_url": null
+        },
+        "meta": {
+            "thread_id": 1465386748275326976,
+            "message_id": 1465387280750612632,
+            "submitted_by": 621766226166677514,
+            "timestamp": "2026-01-26T16:45:53.310000+00:00"
+        }
+    },
+    {
+        "entry_type": "flora",
+        "flora": {
+            "name": "L. Meltrogumosa",
+            "planet": "Jeyotan",
+            "star_system": "Rulinfenz",
+            "galaxy": "Euclid",
+            "coordinates": "101705E3894F",
+            "biome": "Dangerously Hot Fog",
+            "flora_type": "Bush",
+            "rarity": "Common",
+            "discovery_date": "Friday 23rd January 2026",
+            "discovered_by": "imabuzzingbe (me)",
+            "description": "The root structure is simple as It just like an actual bush. It's leaves are in red/orange tone which matches their habitat. The Nutrient Source is Entrapment and It's Mono-Seasonal. When harvested it produces Carbon and Oxygen.\n(Special behavior, harvestable resources, hazards, appearance details)\n-- Upload Screenshot",
+            "special_note": null,
+            "screenshot_url": null
+        },
+        "meta": {
+            "thread_id": 1465386748275326976,
+            "message_id": 1465387132343554231,
+            "submitted_by": 621766226166677514,
+            "timestamp": "2026-01-26T16:45:17.927000+00:00"
+        }
+    },
+    {
+        "entry_type": "planet",
+        "planet": {
+            "name": "Widne Delta :EarthSpinYellow:",
+            "type": "Flourishing Planet",
+            "glyphs_raw": ":portal2: :portal0: :portal1: :portal7: :portal0: :portal5: :portale: :portal3: :portal8: :portal9: :portal4: :portalf:",
+            "glyphs_hex": "201705E3894F",
+            "resources": [
+                "Star Bulb",
+                "Magnetised Ferrite",
+                "Paraffinium",
+                "Activated Copper"
+            ],
+            "weather": "Superheated Rain",
+            "sentinel_level": "Observant",
+            "flora": "Frequent (13)",
+            "fauna": "Generous (22)",
+            "special_note": null,
+            "screenshot_url": null,
+            "minerals": "(19)",
+            "age": "",
+            "atmosphere": "",
+            "primary_core_element": "",
+            "geology": "",
+            "additional_notes": ""
+        },
+        "meta": {
+            "thread_id": 1465386748275326976,
+            "message_id": 1465386932010876969,
+            "submitted_by": 621766226166677514,
+            "timestamp": "2026-01-26T16:44:30.164000+00:00"
+        }
+    },
+    {
+        "entry_type": "system",
+        "system": {
+            "name": "Rulinfenz",
+            "classification": null,
+            "region": "Agrist Conflux",
+            "special_note": null,
+            "code_raw": ":portal6: :portal0: :portal1: :portal7: :portal0: :portal5: :portale: :portal3: :portal8: :portal9: :portal4: :portalf: F1pf / Water",
+            "code_hex": "601705E3894F",
+            "colour": "Yellow :EarthSpinYellow:",
+            "lifeform": "Vy'keen :VykeenDagger:",
+            "economy": {
+                "type": "Advanced Materials",
+                "status": "Comfortable"
+            },
+            "conflict": {
+                "status": "High",
+                "level": 3
+            },
+            "planets": 4,
+            "moons": 2,
+            "coordinates": "601705E3894F",
+            "screenshot_url": null
+        },
+        "meta": {
+            "thread_id": 1465386748275326976,
+            "message_id": 1465386751345426504,
+            "submitted_by": 621766226166677514,
+            "timestamp": "2026-01-26T16:43:47.090000+00:00"
+        }
+    }
+]
