@@ -1,3 +1,5 @@
+import os
+client.run(os.getenv("DISCORD_TOKEN"))
 import discord
 from discord.ext import commands
 from collector_cog import Collector
@@ -25,3 +27,4 @@ async def setup_hook():
 
 
 bot.run("DISCORD_TOKEN")
+
